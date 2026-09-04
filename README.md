@@ -1,5 +1,7 @@
-# Sereni – AI-Driven Sentiment Analysis Chatbot
+# AI-Driven Sentiment Analysis Chatbot
 Visit Here : https://empathy-bot--tanishkabarbate.replit.app/
+
+
 Sereni is an AI-powered web application designed to provide supportive and empathetic responses based on the emotional tone of user messages.
 
 The system uses sentiment analysis and a rule-based risk detection layer to identify emotional distress and possible crisis-related language. Based on the detected emotional state, Sereni provides supportive responses, grounding techniques, and appropriate escalation guidance.
@@ -139,7 +141,7 @@ The design intentionally avoids aggressive colors and visual clutter.
 
 ## 🏗️ System Architecture
 
-```text
+
                     ┌─────────────────────┐
                     │       User          │
                     └──────────┬──────────┘
